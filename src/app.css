@@ -1,0 +1,33 @@
+:root {
+	--text-primary: #1a1a1a;
+	--text-secondary: #666;
+	--bg-primary: #fff;
+	--bg-secondary: #fafafa;
+	--bg-hover: #f0f0f0;
+	--border: #e0e0e0;
+	--border-hover: #ccc;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-family: 'DM Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+body {
+	background: var(--bg-primary);
+	color: var(--text-primary);
+	min-height: 100vh;
+}
+
+::selection {
+	background: #d0d0d0;
+}
