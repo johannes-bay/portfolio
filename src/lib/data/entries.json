@@ -1,102 +1,62 @@
 [
   {
     "year": 2024,
-    "text": "re-designed the interface for Dora, an AI surgery assistant",
+    "text": "re-designed the interface for <a href=\"https://mydora.ai/\" target=\"_blank\" rel=\"noopener\">Dora</a>, an AI surgery assistant",
     "button": "surgery"
   },
   {
-    "year": 2023,
-    "text": "led qualitative research for a Nordic fintech startup exploring trust in AI-driven banking",
-    "button": "fintech"
+    "year": 2025,
+    "text": "worked on the website for Spiral, <a href=\"https://sebmclauchlan.com/\" target=\"_blank\" rel=\"noopener\">Seb McLauchlan</a>'s forthcoming type foundry",
+    "button": "type"
   },
   {
-    "year": 2023,
-    "text": "facilitated strategy workshops for a museum rethinking their digital presence",
-    "button": "museums"
+    "year": 2025,
+    "text": "developed strategy for <a href=\"https://www.zenno.space/\" target=\"_blank\" rel=\"noopener\">Zenno Astronautics</a> and <a href=\"https://www.midjourney.com/explore?tab=video_top\" target=\"_blank\" rel=\"noopener\">Midjourney</a>",
+    "button": "strategy"
+  },
+  {
+    "year": 2025,
+    "text": "worked on redesigning <a href=\"https://blissbox.co.nz/\" target=\"_blank\" rel=\"noopener\">Bliss</a>",
+    "button": "Bliss"
   },
   {
     "year": 2022,
-    "text": "designed a speculative futures toolkit for a climate research institute",
-    "button": "climate"
+    "text": "became Product Design Lead at 21e8, researching and developing applications for new networked compute infrastructure and interfaces",
+    "button": "compute"
   },
   {
     "year": 2022,
-    "text": "conducted 40+ user interviews for an accessibility-focused transit app",
-    "button": "transit"
+    "text": "co-organised <a href=\"https://post.design/tangle/\" target=\"_blank\" rel=\"noopener\">post.design/tangle</a> in Sweden, Denmark and Norway",
+    "button": "tangle"
   },
   {
     "year": 2021,
-    "text": "helped a sustainable fashion brand articulate their design philosophy",
-    "button": "fashion"
-  },
-  {
-    "year": 2021,
-    "text": "ran a research sprint on remote work culture for a distributed tech company",
-    "button": "remote"
-  },
-  {
-    "year": 2020,
-    "text": "created service blueprints for a telemedicine platform during the early pandemic",
-    "button": "health"
-  },
-  {
-    "year": 2020,
-    "text": "taught a workshop on design research methods at a Copenhagen design school",
-    "button": "teaching"
-  },
-  {
-    "year": 2019,
-    "text": "spent three months embedded in a hospital studying patient wayfinding",
-    "button": "hospitals"
-  },
-  {
-    "year": 2019,
-    "text": "wrote a 60-page strategic report on the future of public libraries",
-    "button": "libraries"
+    "text": "worked as an independent design researcher and strategist for architecture and build praxis <a href=\"https://archivalstudies.net/\" target=\"_blank\" rel=\"noopener\">Archival Studies</a>",
+    "button": "architecture"
   },
   {
     "year": 2018,
-    "text": "redesigned the onboarding experience for a meditation app",
-    "button": "wellness"
-  },
-  {
-    "year": 2018,
-    "text": "led a cross-cultural research project spanning Tokyo, Copenhagen, and São Paulo",
-    "button": "global"
+    "text": "returned to Copenhagen to work as Concept-to-Consumer Manager at <a href=\"https://www.wired.com/story/empirical-spirits-brewing-distilling/\" target=\"_blank\" rel=\"noopener\">Empirical Spirits</a> and launched a wine subscription service for <a href=\"https://etteetteette.dk/pompette/\" target=\"_blank\" rel=\"noopener\">Pompette</a>",
+    "button": "spirits"
   },
   {
     "year": 2017,
-    "text": "worked with an architecture firm on human-centered urban design research",
-    "button": "cities"
+    "text": "worked as a strategist and designer for the Wellington City Council",
+    "button": "council"
   },
   {
     "year": 2017,
-    "text": "prototyped experimental interfaces for an electronic music collective",
-    "button": "music"
+    "text": "co-organised the SEGD's <a href=\"https://makinggood.design/work/off-grid/\" target=\"_blank\" rel=\"noopener\">Off Grid</a> conference in Wellington, New Zealand",
+    "button": "Off Grid"
   },
   {
     "year": 2016,
-    "text": "joined a research expedition studying food systems in rural Japan",
-    "button": "Japan"
-  },
-  {
-    "year": 2016,
-    "text": "co-authored a paper on participatory design in healthcare settings",
-    "button": "academia"
+    "text": "worked for <a href=\"https://www.winesentience.com/pages/home\" target=\"_blank\" rel=\"noopener\">Stephen Wong MW</a> and co-organised New Zealand's first natural wine festival, Budburst",
+    "button": "wine"
   },
   {
     "year": 2015,
-    "text": "worked at Amass Restaurant in Copenhagen and interned at the MAD Symposium",
+    "text": "worked at <a href=\"https://robbreport.com/food-drink/dining/amass-copenhagen-closed-1234778358/\" target=\"_blank\" rel=\"noopener\">Amass Restaurant</a> in Copenhagen and interned at the <a href=\"https://madfeed.co/mad-symposium/\" target=\"_blank\" rel=\"noopener\">MAD Symposium</a>, as well as <a href=\"https://www.eater.com/2020/9/17/21439564/christian-puglisi-interview-closing-relae-manfreds-copenhagen-restaurants\" target=\"_blank\" rel=\"noopener\">Restaurant Relae</a> and <a href=\"https://www.theworlds50best.com/discovery/Establishments/Australia/Melbourne/Attica.html\" target=\"_blank\" rel=\"noopener\">Attica</a>",
     "button": "food"
-  },
-  {
-    "year": 2014,
-    "text": "traveled through Southeast Asia documenting street food culture",
-    "button": "travel"
-  },
-  {
-    "year": 2013,
-    "text": "completed my thesis on the semiotics of everyday objects",
-    "button": "thesis"
   }
 ]
